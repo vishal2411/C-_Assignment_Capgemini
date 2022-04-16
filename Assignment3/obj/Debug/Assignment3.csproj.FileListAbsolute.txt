@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\Assignment3\obj\Debug\Assignment3.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Assignment3\obj\Debug\Assignment3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Assignment3\bin\Debug\Assignment3.exe.config
+C:\Users\Dell\source\repos\Assignment3\bin\Debug\Assignment3.exe
+C:\Users\Dell\source\repos\Assignment3\bin\Debug\Assignment3.pdb
+C:\Users\Dell\source\repos\Assignment3\obj\Debug\Assignment3.exe
+C:\Users\Dell\source\repos\Assignment3\obj\Debug\Assignment3.pdb
